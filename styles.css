@@ -1,0 +1,186 @@
+body{
+    background-color: rgb(2, 2, 39);
+    
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    display: flex;
+    font-size: 35px;
+    line-height: 80px;
+    padding-right: 300px;
+    cursor: pointer;
+    
+}
+.header{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    gap: 2rem;
+    padding-right: 120px;
+}
+.header a{
+    color: white;
+    display: flex;
+    text-decoration: none;
+}
+.btn{
+    width: 160px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: rgb(22, 158, 236);
+    border-radius: 50px;
+    font-weight: 200;
+    font-size: large;
+    cursor: pointer;
+    float: right;
+}
+.btn:hover{
+    background-color: rgb(2, 2, 39);
+}
+
+.mn{
+    background-color: rgb(40, 96, 250);
+    color: white;
+    font-size: large;
+    width: 240px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 160px;
+    margin-left: 90px;
+    border-radius: 5px;
+}
+.dev-des{
+    color: white;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 80px;
+    justify-content: center;
+    
+}
+.design{
+    color: rgb(25, 186, 250);
+}
+.worlds{
+    color: white;
+    font-size: large;
+    margin-left: 80px;
+    justify-content: center; 
+}
+.img{
+    margin-top: -400px;
+    margin-left: 800px;
+}
+.touch{
+    width: 160px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: rgb(62, 205, 248);
+    border-radius: 50px;
+    font-weight: 200;
+    font-size: large;
+    cursor: pointer;
+    margin-top: -100px;
+    margin-left: 80px;
+}
+.touch:hover{
+    background-color: rgb(2, 2, 39);
+}
+.icon{
+    display: flex;
+   margin-top: -40px;
+   width: 40px;
+   height: 40px;
+   padding-left: 280px;
+}
+.about{
+    background-color: rgb(40, 96, 250);
+    color: white;
+    font-size: large;
+    width: 120px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-left: 90px;
+    border-radius: 5px;
+    margin-left: 700px;
+    margin-top: -550px;
+}
+.bg{
+    background-color: rgb(61, 67, 73);
+    width: 390px;
+    height: 500px;
+    border-radius: 20px;
+    border: 1px solid wheat;
+    margin-left: 200px;
+    margin-top: 120px;
+}
+.img-pl{
+    display: flex;
+    width: 380px;
+    height: 620px;
+    margin-top: -47%;
+    margin-left: 189px;
+    padding-left: 20px;
+    /* top: -120px; */
+}
+.about-text{
+    font-size: 200%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+.ux{
+    color: blue;
+}
+p.lor{
+    color: white;
+    font-size: medium;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+.google{
+    background-color: rgb(61, 67, 73);
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    border: 1px solid wheat;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.nbr{
+    color: white;
+    font-size: 180%;
+    margin-top: 5px;
+    font-weight: 400;
+    font-style: oblique;
+    font-weight: 600;
+    padding-left: 30px;
+}
+.review{
+    color: white;
+    text-align: center;
+    font-size: 120%;
+}
+.about-touch{
+    margin-left: 620px;
+    margin-top: 150px;
+}
